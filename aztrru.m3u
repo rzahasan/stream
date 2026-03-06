@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AlvinChannelTV.az@SD",Alvin Channel TV (360p) [Not 24/7]
-https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="ApaTV.az",APA TV 
+https://str.yodacdn.net/apatv/index.m3u8
 #EXTINF:-1 tvg-id="ARB.az@SD",ARB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 tvg-id="ARB24.az@SD",ARB 24
