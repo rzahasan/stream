@@ -266,20 +266,6 @@ https://streaming.televizor-24-tochka.ru/live/23.m3u8
 #EXTINF:-1 tvg-id="TNT.ru@SD",ТНТ
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
 
-#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/20428041/avatar?change_time=1766171277&croped=1&mh=140&mw=140",Kinowalk_tv
-http://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://i.postimg.cc/ZK8brxhb/Kino-Jam.png",KinoJam
-http://kinowalk.hopto.org/kinojam_live
-#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://i.postimg.cc/gjR3t6sS/1.jpg", Малдер Всё ТВ
-http://kinowalk.hopto.org/vsetv_live
-#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg",Dimpon TV
-http://kinowalk.hopto.org/dimpon_live
-#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg",MovieToper
-http://kinowalk.hopto.org/movietoper_live
-#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/18824582/avatar?change_time=1714643599&croped=1&mh=140&mw=140",ZubrilomFilm
-http://kinowalk.hopto.org/zubrilomfilm_live
-
 #EXTINF:-1 group-title="KINO+📺",amedia1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="KINO+📺",amedia2
