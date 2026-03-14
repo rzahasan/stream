@@ -350,8 +350,10 @@ https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="CHILDREN'S",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",СоюзМультфильм
+#EXTINF:-1 group-title="CHILDREN'S",СоюзМультфильм 1
 http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",СоюзМультфильм 2
+https://okotv.ru/streams/258240/stream.m3u8?t=0dfb11ad81219a0b6bb16d5e89f4e7c3&e=38274902767890361
 #EXTINF:-1 group-title="CHILDREN'S",Axterix
 http://filmtvgroup.hopto.org/AxteriX/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="CHILDREN'S",Супергерои
