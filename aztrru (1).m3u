@@ -330,10 +330,12 @@ https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Авто 24
 https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="CHILDREN'S",Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",СоюзМультфильм 1
-http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",English Club TV
+https://stream8.cinerama.uz/1442/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Da Vinci Learning
+https://s70378.cdn.ngenix.net/da_vinci/2/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Мультиландия
+https://stream1.cinerama.uz/1440/index.m3u8
 
 #EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 1 HD
 http://stream.mcquack.net/234/index.m3u8
