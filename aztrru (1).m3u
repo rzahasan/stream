@@ -334,39 +334,16 @@ https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="CHILDREN'S",СоюзМультфильм 1
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",СоюзМультфильм 2
-https://okotv.ru/streams/258240/stream.m3u8?t=0dfb11ad81219a0b6bb16d5e89f4e7c3&e=38274902767890361
-#EXTINF:-1 group-title="CHILDREN'S",Axterix
-http://filmtvgroup.hopto.org/AxteriX/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="CHILDREN'S",Супергерои
-http://158.101.222.193:88/georgia_play.php?id=malysh
-
-#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Cartoons Short
-http://ott.server-iptv.live/521/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Cartoons 90
-http://ott.server-iptv.live/519/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="Cloudflare (🇺🇦)",CineMan Симпсоны
-http://ott.server-iptv.live/522/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Карусель
-http://ott.server-iptv.live/116/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="Cloudflare (🇺🇦)",СТС Kids HD
-http://ott.server-iptv.live/517/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Cartoonito
-http://ott.server-iptv.live/514/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Матч! Футбол 2
-http://ott.server-iptv.live/203/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Окко Футбол HD
-http://ott.server-iptv.live/232/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Окко Футбол 
-https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/video_10801920_p_0.m3u8
-#EXTINF:-1 group-title="Cloudflare (🇺🇦)",M Спорт HD
-http://ott.server-iptv.live/237/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 1 HD
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 2 HD
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",KHL
-https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Матч! Планета
-https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",viju+
+http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1
+http://stream.mcquack.net/176/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 2
+http://stream.mcquack.net/192/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Окко Футбол 
+https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/video_10801920_p_0.m3u8
