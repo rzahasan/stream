@@ -6,7 +6,7 @@ https://operativmm.az/tvs/arb/stream5/stream.m3u8
 https://operativmm.az/tvs/arb24/stream/stream.m3u8
 
 #EXTINF:-1 tvg-id="ARBGunes.az@SD",ARB Gunes
-https://yayin2.canlitv.fun/live/arbgunes.stream/chunklist_w170257612.m3u8?hash=62d73cfb044b604a7f9b3f95709b5440
+http://315e5a5d.ottrast.com/iptv/PXXFGKYYT6PCZA/2189/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.az",ATV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
@@ -40,6 +40,8 @@ https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 
 #EXTINF:-1 tvg-id="MedeniyyetTV.az",Medeniyyet TV
 https://yayin2.canlitv.fun/live/medeniyettv.stream/chunklist_w427862790.m3u8?hash=05ede89eef55e9b414e79a5c7ea777ad
+#EXTINF:-1 tvg-id="MedeniyyetTV.az",Medeniyyet TV
+http://315e5a5d.ottrast.com/iptv/CRKBTYRXLLNSEF/2197/index.m3u8
 
 #EXTINF:-1 tvg-id="RealTV.az",Real TV
 https://operativmm.az/tvs/realtv/stream2/stream.m3u8
@@ -49,9 +51,6 @@ https://operativmm.az/tvs/space/stream8/stream.m3u8
 
 #EXTINF:-1 tvg-id="XezerTV.az@SD",Xezer TV
 https://operativmm.az/tvs/xezer/stream/main_stream.m3u8
-
-#EXTINF:-1 tvg-id="CBC.az@SD",CBC TV AZ
-https://yayin2.canlitv.fun/live/cbc.stream/chunklist_w1438702943.m3u8?hash=62d73cfb044b604a7f9b3f95709b5440
 
 #EXTINF:-1 tvg-id="Gunaz.az@SD",Gunaz TV
 https://tv.gunaz.tv/hls/live.m3u8
