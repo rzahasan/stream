@@ -1,59 +1,60 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ApaTV.az",APA TV 
-https://str.yodacdn.net/apatv/index.m3u8
 #EXTINF:-1 tvg-id="ARB.az@SD",ARB
-https://str.yodacdn.net/arb/index.m3u8
+https://operativmm.az/tvs/arb/stream5/stream.m3u8
+
 #EXTINF:-1 tvg-id="ARB24.az@SD",ARB 24
-https://str.yodacdn.net/arb24/index.m3u8
+https://operativmm.az/tvs/arb24/stream/stream.m3u8
+
 #EXTINF:-1 tvg-id="ARBGunes.az@SD",ARB Gunes
-https://str.yodacdn.net/arbgunesh/index.m3u8
+https://yayin2.canlitv.fun/live/arbgunes.stream/chunklist_w170257612.m3u8?hash=62d73cfb044b604a7f9b3f95709b5440
+
 #EXTINF:-1 tvg-id="ATV.az",ATV
-https://str.yodacdn.net/atv/index.m3u8
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+
+#EXTINF:-1 tvg-id="AzTV.az",Az TV
+https://operativmm.az/tvs/az/stream9/stream.m3u8
 #EXTINF:-1 tvg-id="AzTV.az@SD",Az TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
-#EXTINF:-1 tvg-id="AzTV.az",Az TV
-https://str.yodacdn.net/azertv/index.m3u8
+
 #EXTINF:-1 tvg-id="",Azstar TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1 tvg-id="BakuTV.az@SD",Baku TV (720p)
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+
 #EXTINF:-1 tvg-id="BakuTV.az@SD",Baku TV
-https://str.yodacdn.net/bakutv/index.m3u8
+https://rtmp.baku.tv/hls/bakutv_720p.m3u8
+
 #EXTINF:-1 tvg-id="CBCSport.az@HD",CBC Sport
-https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+https://operativmm.az/tvs/cbcsport/stream3/stream.m3u8
+
 #EXTINF:-1 tvg-id="DunyaTV.az@SD",Dunya TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+https://stream.dunyatv.az/live/dunyatv.m3u8
+
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD",Ictimai TV
-https://live.itv.az/itv.m3u8
+https://operativmm.az/tvs/ictimai/stream6/stream.m3u8
+
 #EXTINF:-1 tvg-id="IdmanTV.az",Idman TV
-https://str.yodacdn.net/idmantele/index.m3u8
+https://operativmm.az/tvs/idman/stream4/stream.m3u8
+
 #EXTINF:-1 tvg-id="",Kanal S TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
-#EXTINF:-1 tvg-id="KapazTV.az@SD",Kapaz TV
-http://85.132.78.122:8050/hls/stream/index.m3u8
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+
 #EXTINF:-1 tvg-id="MedeniyyetTV.az",Medeniyyet TV
-https://str.yodacdn.net/medeniyyettele/index.m3u8
+https://yayin2.canlitv.fun/live/medeniyettv.stream/chunklist_w427862790.m3u8?hash=05ede89eef55e9b414e79a5c7ea777ad
+
 #EXTINF:-1 tvg-id="RealTV.az",Real TV
-https://str.yodacdn.net/real/index.m3u8
+https://operativmm.az/tvs/realtv/stream2/stream.m3u8
+
 #EXTINF:-1 tvg-id="SpaceTV.az@SD",Space TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:-1 tvg-id="SpaceTV.az@SD",Space TV
-https://str.yodacdn.net/space/index.m3u8
-#EXTINF:-1 tvg-id="",TMB TV
-https://str.yodacdn.net/tmbtr/index.m3u8
-#EXTINF:-1 tvg-id="",TMB AZ
-https://str.yodacdn.net/tmbaz/index.m3u8
+https://operativmm.az/tvs/space/stream8/stream.m3u8
+
 #EXTINF:-1 tvg-id="XezerTV.az@SD",Xezer TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:-1 tvg-id="XezerTV.az@SD",Xezer TV
-https://str.yodacdn.net/xazartv/index.m3u8
-#EXTINF:-1 tvg-id="MTV.az@SD",MTV Azerbaijan
-https://str.yodacdn.net/mtvaz/index.m3u8
-#EXTINF:-1 tvg-id="Biznes.az@SD",Biznes TV
-https://str.yodacdn.net/biznestv/index.m3u8
-#EXTINF:-1 tvg-id="Qafqaz.az@SD",Qafqaz TV
-https://str.yodacdn.net/qafkaz/index.m3u8
+https://operativmm.az/tvs/xezer/stream/main_stream.m3u8
+
+#EXTINF:-1 tvg-id="CBC.az@SD",CBC TV AZ
+https://yayin2.canlitv.fun/live/cbc.stream/chunklist_w1438702943.m3u8?hash=62d73cfb044b604a7f9b3f95709b5440
+
+#EXTINF:-1 tvg-id="Gunaz.az@SD",Gunaz TV
+https://tv.gunaz.tv/hls/live.m3u8
 
 #EXTM3U x-tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml" url-tvg="https://streams.uzunmuhalefet.com/epg/tr.xml" tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml"
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" tvg-url="https://www.trt1.com.tr/" tvg-id="TRT1.tr",TRT 1
